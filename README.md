@@ -30,6 +30,7 @@ python simulate.py --rows 2000 --seed 7 --out data/sample_can.csv
 
 # 4) Run the dashboard
 streamlit run app.py
+```
 ## 📁 Project Structure
 
 ```
@@ -46,6 +47,8 @@ ev-validation-data-analysis/
 ├─ .gitignore
 └─ README.md
 ```
+
+---
 ## 📊 What It Detects (out-of-the-box)
 
 ### 🔹 Rule-based
